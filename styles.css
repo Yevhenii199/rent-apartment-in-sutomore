@@ -15,6 +15,7 @@
 
 .carousel-images {
     display: flex;
+    object-fit: cover;
 }
 
 .carousel-images img {
@@ -69,7 +70,6 @@ a {
 }
 
 img {
-
     max-width: 100%;
     height: auto;
 }
