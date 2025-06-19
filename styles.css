@@ -120,7 +120,7 @@ header {
 }
 
 .room-details {
-    padding: 1rem;
+    padding: 0.6rem;
 }
 
 .room-details h2 {
@@ -130,6 +130,7 @@ header {
 .info-block {
     background-color: #0077b6;
     color: white;
+    border-radius: 8px;
     padding: 1rem;
     margin-top: 2rem;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
