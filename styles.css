@@ -19,6 +19,7 @@ p {
 .header-btn {
     display: flex;
     justify-content: flex-end;
+    align-items: center;
 }
 
 .carousel-container {
