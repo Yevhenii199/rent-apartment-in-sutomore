@@ -2,10 +2,6 @@
     box-sizing: border-box;
 }
 
-body {
-    font-family: 'Montserrat', sans-serif;
-}
-
 h1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
@@ -66,14 +62,13 @@ p {
 }
 
 .button-lang {
-    width: 90px;
+    width: 92px;
     height: 20px;
     font-size: 12px;
     font-weight: 400;
     text-align: center;
     align-content: center;
     color: white;
-    margin-right: 5px;
 }
 
 .button-lang:hover {
@@ -90,7 +85,7 @@ img {
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Montserrat', sans-serif;
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
@@ -129,8 +124,7 @@ header {
 }
 
 .info-block {
-    background-color: #0077b6;
-    color: white;
+    background: white;
     border-radius: 8px;
     padding: 1rem;
     margin-top: 2rem;
@@ -160,6 +154,10 @@ header {
     font-weight: bold;
 }
 
+.contact-buttons a.facebook {
+    background-color: #1877f2;
+}
+
 .contact-buttons a.telegram {
     background-color: #0088cc;
 }
@@ -169,7 +167,7 @@ header {
 }
 
 .contact-buttons a.gmail {
-    background-color: #cd5700;
+    background-color: #ea4335;
 }
 
 @media (min-width: 768px) {
@@ -177,5 +175,9 @@ header {
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         gap: 1rem;
+    }
+
+    .header-btn {
+        justify-content: flex-end;
     }
 }

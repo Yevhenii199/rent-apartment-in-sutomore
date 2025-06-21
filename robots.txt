@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yevhenii199.github.io/rent-apartment-in-sutomore/sitemap.xml
