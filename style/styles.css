@@ -167,6 +167,10 @@ header {
 }
 
 .contact-buttons a.gmail {
+    background-color: #FBBC04;
+}
+
+.contact-buttons a.instagram {
     background-color: #ea4335;
 }
 
