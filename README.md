@@ -10,7 +10,7 @@
 
 **Detailed Description: Contains a list of all amenities, including Wi-Fi, parking, air conditioning, as well as kitchen and household appliances.**
 
-**Contact Details: Provides direct links to messengers (Telegram, Viber, Facebook Messenger) and email to make it easier to contact the owner.**
+**Contact Details: Provides direct link to messengers (Telegram, Viber, Facebook Messenger) and email to make it easier to contact the owner.**
 
 **Interactive Map: Built-in Google map helps you easily find the exact location of the guest house.**
 
