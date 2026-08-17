@@ -1,4 +1,4 @@
-##  🏖️ Rent apartment in Sutomore
+##  🏖️ Rent apartment in Sutomore.
 
 **This project is a one-page static website created for renting an apartment in Sutomore, Montenegro. The site is designed to attract tourists who want to spend a holiday near the sea in a quiet area and provides all the necessary information for booking.**
 
