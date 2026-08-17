@@ -4,7 +4,7 @@
 
 ## 🏡 Key Features 
 
-**Multilingual: The site is available in three languages: English (EN), Serbian (SR) and Russian (RU).**
+**Multilingual: The site is available in three languages: English (EN), Serbian (SR) and Russian- (RU).**
 
 **Gallery: Includes an interactive carousel of images for each room (terrace, living room, bedrooms, bathroom, kitchen), allowing visitors to take a closer look at the house.**
 
